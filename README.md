@@ -1,0 +1,2 @@
+# Devising-Predictive-Models-to-identify-potential-caravan-mobile-home-policy-owners
+The primary goal of this project was to apply different algorithms and methods to analyze if customers are interested in the caravan insurance policy. This would depend on whether there are any factors which will help in classifying customers as either being interested or not being interested in purchasing this insurance. Getting to this point involved data cleansing and exploratory analysis which helped in understanding the demographics and decide on how the data needs to be used.
